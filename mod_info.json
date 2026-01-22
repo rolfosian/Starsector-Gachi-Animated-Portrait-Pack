@@ -1,0 +1,14 @@
+{
+    "id": "gachimuchi_animated_portrait_pack",
+    "name": "Gachimuchi Animated Portrait Pack",
+    "author": "rolfos",
+    "version": "1.0.0",
+    "description": "Gachimuchi Animated Portrait Pack",
+    "gameVersion": "0.98a-RC8",
+    "dependencies": [
+        {
+            "id": "video_lib",
+            "name": "VideoLib"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "VideoLib" : {
+        "gachimuchi_animated_portrait_pack" : {
+            "videos" : {
+                "anim_gachi_portrait_0" : "data/videos/billy1.gif",
+                "anim_gachi_portrait_1" : "data/videos/billy2.gif",
+                "anim_gachi_portrait_2" : "data/videos/billy3.gif",
+                "anim_gachi_portrait_3" : "data/videos/deep_dark_fantasies.gif",
+                "anim_gachi_portrait_4" : "data/videos/ricardo.gif",
+                "anim_gachi_portrait_5" : "data/videos/sorry_for_what.gif",
+                "anim_gachi_portrait_6" : "data/videos/steve_rambo_computer.gif",
+                "anim_gachi_portrait_7" : "data/videos/steve_rambo_hacker.gif",
+                "anim_gachi_portrait_8" : "data/videos/steve_rambo_i_see_that.gif",
+                "anim_gachi_portrait_9" : "data/videos/wink.gif"
+            },
+            
+            "autoTexProjectorOverrides" : {
+                "graphics/portraits/anim_gachi_portrait_0.png" : { 
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_0"
+                },
+                "graphics/portraits/anim_gachi_portrait_1.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_1"
+                },
+                "graphics/portraits/anim_gachi_portrait_2.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_2"
+                },
+                "graphics/portraits/anim_gachi_portrait_3.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_3"
+                },
+                "graphics/portraits/anim_gachi_portrait_4.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_4"
+                },
+                "graphics/portraits/anim_gachi_portrait_5.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_5"
+                },
+                "graphics/portraits/anim_gachi_portrait_6.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_6"
+                },
+                "graphics/portraits/anim_gachi_portrait_7.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_7"
+                },
+                "graphics/portraits/anim_gachi_portrait_8.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_8"
+                },
+                "graphics/portraits/anim_gachi_portrait_9.png" : {
+                    "width" : 128,
+                    "height" : 128,
+                    "videoId" : "anim_gachi_portrait_9"
+                }
+            },
+            
+            "images" : {}
+        }
+    }
+}
